@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: yzbp0u4t2-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/yzbp0u4t2-go
